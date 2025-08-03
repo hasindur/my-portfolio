@@ -14,11 +14,9 @@ This is my personal portfolio website built with **React** and **Tailwind CSS**.
 ## 🛠️ Tech Stack
 
 - **Frontend:** React, Tailwind CSS
-- **Deployment:** GitHub Pages / Vercel / Netlify
 
-## 📸 Preview
 
-> Add screenshot or live demo link here once available.
 
-## 📂 Folder Structure
+
+
 
